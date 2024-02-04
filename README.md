@@ -1,5 +1,7 @@
 # KICKR Shifters
 
+<img src="https://github.com/StephenDone/kickr_shifters/assets/68420912/0006cc02-046b-4ed4-8a2b-25e99c15ed23" width="324">
+
 ## About
 This repository contains various projects around the shifters on the Waho KICKR indoor bike.
 

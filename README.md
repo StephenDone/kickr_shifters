@@ -18,4 +18,6 @@ So I had to repair these shifters before I could use them. They had corroded con
 Opening up the shifters to get at the cables, I couldn't help but Google the chip on the board inside the shifters. The chip PDF was readily available and there just so happened to be a small cheap dev board available for it too. This sounded like a good excuse to dust of a Raspberry PI, write my first python script to test my repaired shifters, and also see if I could make some shifters to go in my tri-bars too. I didn't want to hurt my precious KICKR bike, which is now out of warranty - this was the most important thing. So I decided to make an adaptor to plug a KICKR shifter into my PI. I wrote a test script to talk to the £5 dev board first. I then made sure my PI works with the working shifters on my bike. I could then test that my repaired shifters also worked on my PI. If they did work, I could put the repaired shifters and tri bars on my bike, confident that all would be fine and they wouldn't hurt my precious KICKR. 
 
 ## Contact
-If you have any feedback or ideas, please contact me, preferably by creating an issue.
+If you have any feedback or ideas, or spot any errors, please contact me, preferably by creating an issue.
+
+I take no responsibility for any damage that arises to your KICKR Bike, due to any errors in the information I have offered. Please verify any wiring, such as power supply polarity and pinouts as you go along - that's what I did. If you spot anything that is incorrect, please let me know.

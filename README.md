@@ -3,7 +3,7 @@
 <img src="https://github.com/StephenDone/kickr_shifters/assets/68420912/0006cc02-046b-4ed4-8a2b-25e99c15ed23" width="324">
 
 ## About
-This repository contains various projects around the shifters on the Waho KICKR indoor bike.
+This repository contains various projects around the shifters on the Wahoo KICKR indoor bike.
 
 The aim is to provide sufficient information so that..
 - anyone can build their own custom shifters - maybe you have a physical disability that makes standard shifters hard to use, or maybe you would just like to have tri-bar shifters on your bike.
